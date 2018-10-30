@@ -1,24 +1,24 @@
 src/nvs_types.o: \
- /home/louis/esp/esp-idf/components/nvs_flash/src/nvs_types.cpp \
- /home/louis/esp/esp-idf/components/nvs_flash/src/nvs_types.hpp \
- /home/louis/esp/esp-idf/components/nvs_flash/include/nvs.h \
- /home/louis/esp/esp-idf/components/esp32/include/esp_err.h \
- /home/louis/esp/esp-idf/components/newlib/include/stdio.h \
- /home/louis/esp/esp-idf/components/newlib/include/sys/stdio.h \
- /home/louis/esp/esp-idf/components/nvs_flash/src/compressed_enum_table.hpp \
- /home/louis/esp/esp-idf/components/esp32/include/rom/crc.h
+ C:/Users/louis/AppData/Roaming/SPB_Data/esp/esp-idf/components/nvs_flash/src/nvs_types.cpp \
+ C:/Users/louis/AppData/Roaming/SPB_Data/esp/esp-idf/components/nvs_flash/src/nvs_types.hpp \
+ C:/Users/louis/AppData/Roaming/SPB_Data/esp/esp-idf/components/nvs_flash/include/nvs.h \
+ C:/Users/louis/AppData/Roaming/SPB_Data/esp/esp-idf/components/esp32/include/esp_err.h \
+ C:/Users/louis/AppData/Roaming/SPB_Data/esp/esp-idf/components/newlib/include/stdio.h \
+ C:/Users/louis/AppData/Roaming/SPB_Data/esp/esp-idf/components/newlib/include/sys/stdio.h \
+ C:/Users/louis/AppData/Roaming/SPB_Data/esp/esp-idf/components/nvs_flash/src/compressed_enum_table.hpp \
+ C:/Users/louis/AppData/Roaming/SPB_Data/esp/esp-idf/components/esp32/include/rom/crc.h
 
-/home/louis/esp/esp-idf/components/nvs_flash/src/nvs_types.hpp:
+C:/Users/louis/AppData/Roaming/SPB_Data/esp/esp-idf/components/nvs_flash/src/nvs_types.hpp:
 
-/home/louis/esp/esp-idf/components/nvs_flash/include/nvs.h:
+C:/Users/louis/AppData/Roaming/SPB_Data/esp/esp-idf/components/nvs_flash/include/nvs.h:
 
-/home/louis/esp/esp-idf/components/esp32/include/esp_err.h:
+C:/Users/louis/AppData/Roaming/SPB_Data/esp/esp-idf/components/esp32/include/esp_err.h:
 
-/home/louis/esp/esp-idf/components/newlib/include/stdio.h:
+C:/Users/louis/AppData/Roaming/SPB_Data/esp/esp-idf/components/newlib/include/stdio.h:
 
-/home/louis/esp/esp-idf/components/newlib/include/sys/stdio.h:
+C:/Users/louis/AppData/Roaming/SPB_Data/esp/esp-idf/components/newlib/include/sys/stdio.h:
 
-/home/louis/esp/esp-idf/components/nvs_flash/src/compressed_enum_table.hpp:
+C:/Users/louis/AppData/Roaming/SPB_Data/esp/esp-idf/components/nvs_flash/src/compressed_enum_table.hpp:
 
-/home/louis/esp/esp-idf/components/esp32/include/rom/crc.h:
-/home/louis/esp/esp-idf/components/nvs_flash/src/nvs_types.cpp:
+C:/Users/louis/AppData/Roaming/SPB_Data/esp/esp-idf/components/esp32/include/rom/crc.h:
+/c/Users/louis/AppData/Roaming/SPB_Data/esp/esp-idf/components/nvs_flash/src/nvs_types.cpp:

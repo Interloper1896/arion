@@ -1,3 +1,3 @@
 bluedroid/btc/core/btc_sec.o: \
- /home/louis/esp/esp-idf/components/bt/bluedroid/btc/core/btc_sec.c
-/home/louis/esp/esp-idf/components/bt/bluedroid/btc/core/btc_sec.c:
+ C:/Users/louis/AppData/Roaming/SPB_Data/esp/esp-idf/components/bt/bluedroid/btc/core/btc_sec.c
+/c/Users/louis/AppData/Roaming/SPB_Data/esp/esp-idf/components/bt/bluedroid/btc/core/btc_sec.c:

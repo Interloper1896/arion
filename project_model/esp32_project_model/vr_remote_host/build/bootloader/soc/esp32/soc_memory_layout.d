@@ -1,3 +1,3 @@
 esp32/soc_memory_layout.o: \
- /home/louis/esp/esp-idf/components/soc/esp32/soc_memory_layout.c
-/home/louis/esp/esp-idf/components/soc/esp32/soc_memory_layout.c:
+ C:/Users/louis/AppData/Roaming/SPB_Data/esp/esp-idf/components/soc/esp32/soc_memory_layout.c
+/c/Users/louis/AppData/Roaming/SPB_Data/esp/esp-idf/components/soc/esp32/soc_memory_layout.c:

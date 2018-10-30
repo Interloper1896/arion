@@ -1,5 +1,6 @@
-src//jsmn.o: /home/louis/esp/esp-idf/components/jsmn/src/jsmn.c \
- /home/louis/esp/esp-idf/components/jsmn/include/jsmn.h
+src//jsmn.o: \
+ C:/Users/louis/AppData/Roaming/SPB_Data/esp/esp-idf/components/jsmn/src/jsmn.c \
+ C:/Users/louis/AppData/Roaming/SPB_Data/esp/esp-idf/components/jsmn/include/jsmn.h
 
-/home/louis/esp/esp-idf/components/jsmn/include/jsmn.h:
-/home/louis/esp/esp-idf/components/jsmn/src//jsmn.c:
+C:/Users/louis/AppData/Roaming/SPB_Data/esp/esp-idf/components/jsmn/include/jsmn.h:
+/c/Users/louis/AppData/Roaming/SPB_Data/esp/esp-idf/components/jsmn/src//jsmn.c:
